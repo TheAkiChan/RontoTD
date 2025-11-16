@@ -1,0 +1,6 @@
+Grass, true, 1, 0, -1, true, false;
+Sand, true, 1, 0, -1, true, false;
+Snow, true, 1, 0, -1, true, false;
+Stone, false, 1, 0, -1, true, false;
+Water, false, 4, 8, -1, true, true;
+Unpathable Grass, true, 1, 0, -1, false, false;

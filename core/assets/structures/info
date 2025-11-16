@@ -1,0 +1,5 @@
+Base, true, 1, 0, -1, false, true;
+Rock, false, 1, 0, -1, false, false;
+Flowers, false, 1, 0, -1, true, true;
+Tall Grass, false, 1, 0, -1, true, true;
+Tree, false, 1, 0, -1, false, false;

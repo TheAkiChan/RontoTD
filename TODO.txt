@@ -1,0 +1,3 @@
+- Design some levels, towers, enemies, tiles, structures...
+- Game crashes when deleting a tower that is placed in the loaded level.
+- Make it so pressing WASD and moving the camera with the mouse at the same time don't make you move faster if in the same direction or not move in all if in opposite directions (maybe make moving camera with mouse disabled when pressing any of the WASD buttons).
